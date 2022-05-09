@@ -2,8 +2,8 @@
 Pretrained XLNet on the whole clinical notes of MIMIC-III
 
 ## Pretrained Models
-* **Clinical+XLNet-Base**
-* **Clinical+XLNet-DS-Base**
+* [**Clinical+XLNet-Base**](https://drive.google.com/drive/folders/14qMYr7Py9KAa7ygvks1NqnOONwLOyYaU?usp=sharing)
+* [**Clinical+XLNet-DS-Base**](https://drive.google.com/drive/folders/150X6ff00sJ97CeKEs4zF_sdBpZLHX98K?usp=sharing)
 
 ## How to pretrain XLNet
 ### Prerequisites
